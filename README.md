@@ -22,7 +22,7 @@ Julian Holch, Felix Hofmann, Wieland Sommer & Volker Heinemann
 
 Radboudumc
 
-Colin Jacobs, Gabriel Efrain HumpireMamani & Bram van Ginneken
+Colin Jacobs, Gabriel Efrain Humpire-Mamani & Bram van Ginneken
 
 
 Polytechnique Montréal & CHUM Research Center
